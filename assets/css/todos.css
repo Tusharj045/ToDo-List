@@ -1,0 +1,9 @@
+#container{
+    background-color: aquamarine;
+    width: 360px;
+    margin:0 auto;
+}
+.completed{
+    text-decoration-line: line-through;
+    color: grey;
+}
